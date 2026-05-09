@@ -1,0 +1,8 @@
+Arabic sign alphabet reference images are cropped from:
+https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%A3%D8%A8%D8%AC%D8%AF%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A8%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9_(Arabic_Alphabet_in_Sign_Language).jpg
+
+Author: Sandra / SanBonne
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Source description: Arabic alphabet signs, including Teh Marbuta and Laa.
+
+The app uses these images only for verified letter-by-letter spelling. Word-level signs are not generated unless a verified asset is added later.

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">EMAA mark</title>
+  <desc id="desc">A hand-shaped educational communication mark.</desc>
+  <rect width="128" height="128" rx="24" fill="#0f8b8d"/>
+  <path d="M34 72c0-7 5-12 12-12h6V34c0-5 4-9 9-9s9 4 9 9v24h4V40c0-5 4-9 9-9s9 4 9 9v25h2c10 0 18 8 18 18v4c0 22-18 40-40 40H62c-16 0-28-8-34-21l-8-18c-2-5 0-11 5-13s11 0 14 5l5 9V72H34Z" fill="#ffffff"/>
+  <path d="M47 51c-10 1-19-4-22-13 11 0 20 5 22 13Z" fill="#f6c85f"/>
+  <path d="M94 30c4-8 13-13 23-12-3 10-11 16-21 17l-2-5Z" fill="#e66a42"/>
+  <path d="M36 91h45" stroke="#0a6264" stroke-width="7" stroke-linecap="round" opacity=".24"/>
+</svg>
